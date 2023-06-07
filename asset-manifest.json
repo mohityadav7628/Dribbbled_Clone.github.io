@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dribbbled_Clone.github.io/static/css/main.92db20d6.css",
+    "main.js": "/Dribbbled_Clone.github.io/static/js/main.ad15b2bd.js",
+    "static/media/bg.mp4": "/Dribbbled_Clone.github.io/static/media/bg.0df55f6686024da74e29.mp4",
+    "static/media/logo.svg": "/Dribbbled_Clone.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Dribbbled_Clone.github.io/index.html",
+    "main.92db20d6.css.map": "/Dribbbled_Clone.github.io/static/css/main.92db20d6.css.map",
+    "main.ad15b2bd.js.map": "/Dribbbled_Clone.github.io/static/js/main.ad15b2bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92db20d6.css",
+    "static/js/main.ad15b2bd.js"
+  ]
+}
